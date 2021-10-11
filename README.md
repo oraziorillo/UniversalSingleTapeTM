@@ -2,7 +2,7 @@
 
 This is a implementation in C of an universal single tape turing machine. The program takes as input a file that contains the description of a single tape Turing machine and some test strings. The program will simulate such a TM and will produce the corresponding output for each of the test strings furnished. 
 
-A full description of the homework is provided in the presentation "progetto-API-17-18.pdf", though the english version is not available. This project is the first real program I wrote during my bachelor in Milan and for this reason, I am very attached to it.  
+A full description of the homework is provided in the slides "progetto-API-17-18.pdf", though the english version is not available. This project is the first real program I wrote during my bachelor studies in Milan and for this reason, I am very attached to it.  
 
 To compile the program, use the command: ```gcc main.c -o main```.
 
